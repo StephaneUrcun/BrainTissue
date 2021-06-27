@@ -16,7 +16,7 @@ t = 0.0
 
 #invariants:
 a = 400
-poro_0 = 0.5
+poro_0 = 0.6
 nu = 0.47
 mu_l=30
 mu_h=0.003
